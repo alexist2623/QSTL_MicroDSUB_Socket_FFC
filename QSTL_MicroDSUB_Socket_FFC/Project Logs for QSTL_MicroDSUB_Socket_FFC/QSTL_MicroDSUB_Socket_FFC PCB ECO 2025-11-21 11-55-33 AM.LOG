@@ -1,0 +1,58 @@
+Added Component: Designator=C1(FP-GRM21B-0_15-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125¡ÆC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55¡ÆC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.055inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000335oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC2013X60X40LL20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA6AEB222V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=J1-1
+Added Pin To Net: NetName=NetC1_1 Pin=J1-3
+Added Pin To Net: NetName=NetC1_1 Pin=J1-5
+Added Pin To Net: NetName=NetC1_1 Pin=J1-7
+Added Pin To Net: NetName=NetC1_1 Pin=J1-9
+Added Pin To Net: NetName=NetC1_1 Pin=J1-11
+Added Pin To Net: NetName=NetC1_1 Pin=J1-13
+Added Pin To Net: NetName=NetC1_1 Pin=J1-15
+Added Pin To Net: NetName=NetC1_1 Pin=J1-17
+Added Pin To Net: NetName=NetC1_1 Pin=J1-19
+Added Pin To Net: NetName=NetC1_1 Pin=J1-21
+Added Pin To Net: NetName=NetC1_1 Pin=J1-23
+Added Pin To Net: NetName=NetC1_1 Pin=J1-25
+Added Pin To Net: NetName=NetC1_1 Pin=J1-27
+Added Pin To Net: NetName=NetC1_1 Pin=J1-29
+Added Pin To Net: NetName=NetC1_1 Pin=J1-31
+Added Pin To Net: NetName=NetC1_1 Pin=J1-33
+Added Pin To Net: NetName=NetC1_1 Pin=J1-35
+Added Pin To Net: NetName=NetC1_1 Pin=J1-37
+Added Pin To Net: NetName=NetC1_1 Pin=J1-39
+Added Pin To Net: NetName=NetC1_1 Pin=J1-41
+Added Pin To Net: NetName=NetC1_1 Pin=J1-43
+Added Pin To Net: NetName=NetC1_1 Pin=J1-45
+Added Pin To Net: NetName=NetC1_1 Pin=J1-47
+Added Pin To Net: NetName=NetC1_1 Pin=J1-49
+Added Pin To Net: NetName=NetC1_1 Pin=J1-51
+Added Pin To Net: NetName=NetC1_1 Pin=R1-1
+Added Net: Name=NetC1_1
+Added Member To Class: ClassName=QSTL_MicroDSUB_Socket_FFC Member=Component C1 Murata 0805
+Added Member To Class: ClassName=QSTL_MicroDSUB_Socket_FFC Member=Component R1 Panasonic 0805
